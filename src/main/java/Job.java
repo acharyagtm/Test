@@ -22,6 +22,8 @@ import org.slf4j.LoggerFactory;
 
 public final class Job extends AbstractJob {
 
+
+
     private static final Logger log = LoggerFactory.getLogger(Job.class);
 
     private static final String DIRECTORY_CONTAINING_CONVERTED_INPUT = "data";
